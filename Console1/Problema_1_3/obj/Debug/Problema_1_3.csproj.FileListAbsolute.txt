@@ -1,0 +1,7 @@
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\obj\Debug\Problema_1_3.csproj.AssemblyReference.cache
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\obj\Debug\Problema_1_3.csproj.CoreCompileInputs.cache
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\bin\Debug\Problema_1_3.exe.config
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\bin\Debug\Problema_1_3.exe
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\bin\Debug\Problema_1_3.pdb
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\obj\Debug\Problema_1_3.exe
+C:\Users\kamig\Documents\semana_1\Console1\Problema_1_3\obj\Debug\Problema_1_3.pdb
